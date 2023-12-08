@@ -1,0 +1,391 @@
+,index,2020,2021,2022,2023,Ticker
+0,Interest Burden Ratio,0,0.97%,0.52%,0.22%,AAPL
+1,Tax Burden Ratio,0,0.33%,-3.84%,1.56%,AAPL
+2,Operating Profit Margin,0,22.14%,1.17%,-1.75%,AAPL
+3,Asset Turnover,0,0.00%,3.37%,-3.02%,AAPL
+4,Equity Multiplier,0,0.00%,17.72%,1.06%,AAPL
+5,Return on Equity,0,0.00%,19.00%,-2.00%,AAPL
+6,Cash and Cash Equivalents,0,-8.09%,-32.32%,26.72%,AAPL
+7,Short Term Investments,0,-47.67%,-10.98%,28.11%,AAPL
+8,Cash and Short Term Investments,0,-31.12%,-22.89%,27.43%,AAPL
+9,Accounts Receivable,0,37.55%,18.30%,0.09%,AAPL
+10,Inventory,0,62.03%,-24.83%,28.00%,AAPL
+11,Other Current Assets,0,25.28%,50.40%,-30.76%,AAPL
+12,Total Current Assets,0,-6.18%,0.42%,6.03%,AAPL
+13,"Property, Plant and Equipment",0,7.27%,6.79%,3.79%,AAPL
+14,Goodwill,0,0.00%,0.00%,0.00%,AAPL
+15,Intangible Assets,0,0.00%,0.00%,0.00%,AAPL
+16,Long Term Investments,0,26.75%,-5.53%,-16.77%,AAPL
+17,Tax Assets,0,0.00%,0.00%,0.00%,AAPL
+18,Other Fixed Assets,0,14.88%,11.42%,18.98%,AAPL
+19,Fixed Assets,0,19.98%,0.55%,-3.83%,AAPL
+20,Other Assets,0,0.00%,0.00%,0.00%,AAPL
+21,Total Assets,0,8.37%,0.50%,-0.05%,AAPL
+22,Accounts Payable,0,29.48%,17.08%,-2.35%,AAPL
+23,Short Term Debt,0,13.39%,35.21%,-25.12%,AAPL
+24,Tax Payables,0,0.00%,0.00%,0.00%,AAPL
+25,Deferred Revenue,0,14.59%,3.94%,1.88%,AAPL
+26,Other Current Liabilities,0,11.27%,28.11%,-3.31%,AAPL
+27,Total Current Liabilities,0,19.06%,22.71%,-5.63%,AAPL
+28,Long Term Debt,0,10.58%,-9.30%,-3.72%,AAPL
+29,Deferred Revenue Non Current,0,0.00%,0.00%,0.00%,AAPL
+30,Deferred Tax Liabilities,0,0.00%,0.00%,0.00%,AAPL
+31,Other Non Current Liabilities,0,-2.14%,-7.84%,1.44%,AAPL
+32,Total Non Current Liabilities,0,6.06%,-8.82%,-2.01%,AAPL
+33,Other Liabilities,0,0.00%,0.00%,0.00%,AAPL
+34,Capital Lease Obligations,0,0.00%,0.00%,0.00%,AAPL
+35,Total Liabilities,0,11.36%,4.92%,-3.86%,AAPL
+36,Preferred Stock,0,0.00%,0.00%,0.00%,AAPL
+37,Common Stock,0,12.97%,13.05%,13.82%,AAPL
+38,Retained Earnings,0,-62.84%,-155.16%,-93.02%,AAPL
+39,Accumulated Other Comprehensive Income,0,-140.15%,-6915.34%,3.09%,AAPL
+40,Other Total Shareholder Equity,0,0.00%,0.00%,0.00%,AAPL
+41,Total Shareholder Equity,0,-3.44%,-19.68%,22.64%,AAPL
+42,Total Equity,0,-3.44%,-19.68%,22.64%,AAPL
+43,Total Liabilities and Shareholder Equity,0,8.37%,0.50%,-0.05%,AAPL
+44,Minority Interest,0,0.00%,0.00%,0.00%,AAPL
+45,Total Liabilities and Equity,0,8.37%,0.50%,-0.05%,AAPL
+46,Total Investments,0,1.15%,-6.50%,-78.28%,AAPL
+47,Total Debt,0,10.92%,-3.73%,-7.48%,AAPL
+48,Net Debt,0,20.64%,7.40%,-15.87%,AAPL
+49,Net Income,0,64.92%,5.41%,-2.81%,AAPL
+50,Depreciation and Amortization,0,2.06%,-1.60%,3.74%,AAPL
+51,Deferred Income Tax,0,2120.47%,-118.75%,480.45%,AAPL
+52,Stock Based Compensation,0,15.77%,14.32%,19.86%,AAPL
+53,Change in Working Capital,0,-186.31%,-124.43%,-648.08%,AAPL
+54,Accounts Receivables,0,-246.38%,-82.00%,-7.41%,AAPL
+55,Inventory,0,1980.31%,-156.17%,-209.03%,AAPL
+56,Accounts Payables,0,-403.45%,-23.35%,-119.99%,AAPL
+57,Other Working Capital,0,-250.91%,76.94%,-165.68%,AAPL
+58,Other Non Cash Items,0,51.55%,-175.51%,-6786.49%,AAPL
+59,Cash Flow from Operations,0,28.96%,17.41%,-9.50%,AAPL
+60,"Property, Plant and Equipment",0,51.66%,-3.40%,2.34%,AAPL
+61,Acquisitions,0,-97.83%,827.27%,-100.00%,AAPL
+62,Purchases of Investments,0,-4.85%,-29.79%,-61.63%,AAPL
+63,Sales of Investments,0,-11.62%,-36.74%,-32.43%,AAPL
+64,Other Investing Activities,0,-55.50%,405.68%,-24.89%,AAPL
+65,Cash Flow from Investing,0,239.12%,53.69%,-116.57%,AAPL
+66,Debt Repayment,0,-35.62%,9.06%,16.85%,AAPL
+67,Common Stock Issued,0,25.57%,-100.00%,0.00%,AAPL
+68,Common Stock Purchased,0,18.81%,3.99%,-13.26%,AAPL
+69,Dividends Paid,0,2.74%,2.59%,1.24%,AAPL
+70,Other Financing Activities,0,19.46%,-79.38%,-297.96%,AAPL
+71,Cash Flow from Financing,0,7.52%,18.63%,-2.04%,AAPL
+72,Forex Changes on Cash,0,0.00%,0.00%,0.00%,AAPL
+73,Net Change in Cash,0,-63.01%,183.73%,-152.59%,AAPL
+74,Cash End of Period,0,-9.70%,-30.48%,23.06%,AAPL
+75,Cash Beginning of Period,0,-20.78%,-9.70%,-30.48%,AAPL
+76,Operating Cash Flow,0,28.96%,17.41%,-9.50%,AAPL
+77,Capital Expenditure,0,51.66%,-3.40%,2.34%,AAPL
+78,Free Cash Flow,0,26.70%,19.89%,-10.64%,AAPL
+79,Revenue,0,33.26%,7.79%,-2.80%,AAPL
+80,Cost of Goods Sold,0,25.61%,4.96%,-4.21%,AAPL
+81,Gross Profit,0,45.62%,11.74%,-0.96%,AAPL
+82,Gross Profit Ratio,0,9.29%,3.66%,1.89%,AAPL
+83,Research and Development Expenses,0,16.86%,19.79%,13.96%,AAPL
+84,General and Administrative Expenses,0,0.00%,0.00%,0.00%,AAPL
+85,Selling and Marketing Expenses,0,0.00%,0.00%,0.00%,AAPL
+86,"Selling, General and Administrative Expenses",0,10.33%,14.20%,-0.65%,AAPL
+87,Other Expenses,0,-67.87%,-229.46%,69.16%,AAPL
+88,Operating Expenses,0,13.50%,16.99%,6.82%,AAPL
+89,Cost and Expenses,0,23.36%,7.02%,-2.15%,AAPL
+90,Interest Income,0,-24.45%,-0.63%,32.74%,AAPL
+91,Interest Expense,0,-7.94%,10.81%,34.19%,AAPL
+92,Depreciation and Amortization,0,2.06%,-1.60%,3.74%,AAPL
+93,EBITDA,0,55.45%,8.57%,-3.62%,AAPL
+94,EBITDA Ratio,0,16.68%,0.70%,-0.82%,AAPL
+95,Operating Income,0,64.36%,9.63%,-4.30%,AAPL
+96,Operating Income Ratio,0,23.31%,1.71%,-1.55%,AAPL
+97,Total Other Income,0,-67.87%,-229.46%,69.16%,AAPL
+98,Income Before Tax,0,62.77%,9.06%,-4.51%,AAPL
+99,Income Before Tax Ratio,0,22.14%,1.17%,-1.75%,AAPL
+100,Income Tax Expense,0,50.07%,32.86%,-13.26%,AAPL
+101,Net Income,0,64.92%,5.41%,-2.81%,AAPL
+102,Net Income Ratio,0,23.77%,-2.20%,0.00%,AAPL
+103,EPS,0,71.30%,8.47%,0.16%,AAPL
+104,EPS Diluted,0,71.04%,8.91%,0.33%,AAPL
+105,Weighted Average Shares,0,-3.75%,-2.91%,-2.91%,AAPL
+106,Weighted Average Shares Diluted,0,-3.78%,-3.20%,-3.14%,AAPL
+107,Share Price,0,34.65%,-26.40%,50.35%,AAPL
+108,Market Capitalization,0,29.55%,-28.76%,45.63%,AAPL
+109,Total Debt,0,10.92%,-3.73%,-7.48%,AAPL
+110,Minority Interest,0,0.00%,0.00%,0.00%,AAPL
+111,Preferred Equity,0,0.00%,0.00%,0.00%,AAPL
+112,Cash and Cash Equivalents,0,-8.09%,-32.32%,26.72%,AAPL
+113,Enterprise Value,0,29.27%,-27.69%,42.94%,AAPL
+114,Gross Margin,0,9.29%,3.66%,1.89%,AAPL
+115,Operating Margin,0,23.31%,1.71%,-1.55%,AAPL
+116,Net Profit Margin,0,23.77%,-2.20%,0.00%,AAPL
+117,Interest Coverage Ratio,0,68.85%,-2.02%,-28.17%,AAPL
+118,Income Before Tax Profit Margin,0,22.14%,1.17%,-1.75%,AAPL
+119,Effective Tax Rate,0,-7.83%,21.80%,-9.14%,AAPL
+120,Return on Assets (ROA),0,0.00%,1.07%,-3.03%,AAPL
+121,Return on Equity (ROE),0,0.00%,19.00%,-2.00%,AAPL
+122,Return on Invested Capital (ROIC),0,0.00%,3.52%,3.66%,AAPL
+123,Return on Capital Employed (ROCE),0,54.90%,23.77%,-7.53%,AAPL
+124,Return on Tangible Assets,0,0.00%,-0.45%,-3.11%,AAPL
+125,Income Quality Ratio,0,-21.80%,11.39%,-6.88%,AAPL
+126,Net Income per EBT,0,1.32%,-3.34%,1.77%,AAPL
+127,Free Cash Flow to Operating Cash Flow Ratio,0,-1.75%,2.10%,-1.25%,AAPL
+128,EBT to EBIT Ratio,0,1.83%,-0.04%,-0.96%,AAPL
+129,EBIT to Revenue,0,19.97%,1.21%,-0.81%,AAPL
+130,Interest Burden Ratio,0,-1.52%,1.29%,-0.48%,MSFT
+131,Tax Burden Ratio,0,4.82%,-0.47%,-6.29%,MSFT
+132,Operating Profit Margin,0,14.08%,-0.19%,-0.19%,MSFT
+133,Asset Turnover,0,0.00%,7.24%,-3.88%,MSFT
+134,Equity Multiplier,0,0.00%,-7.20%,-7.97%,MSFT
+135,Return on Equity,0,0.00%,0.15%,-17.67%,MSFT
+136,Cash and Cash Equivalents,0,4.77%,-2.06%,149.11%,MSFT
+137,Short Term Investments,0,-5.56%,-21.78%,-15.71%,MSFT
+138,Cash and Short Term Investments,0,-4.54%,-19.62%,6.21%,MSFT
+139,Accounts Receivable,0,18.84%,16.34%,10.00%,MSFT
+140,Inventory,0,39.10%,41.96%,-33.19%,MSFT
+141,Other Current Assets,0,16.64%,26.36%,28.85%,MSFT
+142,Total Current Assets,0,1.37%,-7.98%,8.59%,MSFT
+143,"Property, Plant and Equipment",0,33.83%,23.65%,25.63%,MSFT
+144,Goodwill,0,14.67%,35.83%,0.54%,MSFT
+145,Intangible Assets,0,10.83%,44.85%,-17.10%,MSFT
+146,Long Term Investments,0,101.82%,15.16%,43.36%,MSFT
+147,Tax Assets,0,0.00%,0.00%,0.00%,MSFT
+148,Other Fixed Assets,0,14.74%,45.25%,39.75%,MSFT
+149,Fixed Assets,0,25.11%,30.65%,16.69%,MSFT
+150,Other Assets,0,0.00%,0.00%,0.00%,MSFT
+151,Total Assets,0,10.78%,9.31%,12.92%,MSFT
+152,Accounts Payable,0,21.01%,25.31%,-4.76%,MSFT
+153,Short Term Debt,0,115.31%,-65.94%,90.87%,MSFT
+154,Tax Payables,0,2.07%,87.07%,2.09%,MSFT
+155,Deferred Revenue,0,15.35%,9.66%,11.78%,MSFT
+156,Other Current Liabilities,0,19.30%,16.31%,7.59%,MSFT
+157,Total Current Liabilities,0,22.61%,7.25%,9.54%,MSFT
+158,Long Term Debt,0,-11.22%,-1.98%,-6.50%,MSFT
+159,Deferred Revenue Non Current,0,-17.74%,9.71%,1.46%,MSFT
+160,Deferred Tax Liabilities,0,-2.94%,16.16%,88.26%,MSFT
+161,Other Non Current Liabilities,0,1.38%,2.41%,4.68%,MSFT
+162,Total Non Current Liabilities,0,-6.83%,0.08%,-1.56%,MSFT
+163,Other Liabilities,0,0.00%,0.00%,0.00%,MSFT
+164,Capital Lease Obligations,0,25.52%,19.32%,10.78%,MSFT
+165,Total Liabilities,0,4.80%,3.39%,3.76%,MSFT
+166,Preferred Stock,0,0.00%,0.00%,0.00%,MSFT
+167,Common Stock,0,3.18%,4.61%,7.80%,MSFT
+168,Retained Earnings,0,65.06%,47.72%,41.01%,MSFT
+169,Accumulated Other Comprehensive Income,0,-42.81%,-356.75%,35.59%,MSFT
+170,Other Total Shareholder Equity,0,0.00%,0.00%,0.00%,MSFT
+171,Total Shareholder Equity,0,20.02%,17.29%,23.83%,MSFT
+172,Total Equity,0,20.02%,17.29%,23.83%,MSFT
+173,Total Liabilities and Shareholder Equity,0,10.78%,9.31%,12.92%,MSFT
+174,Minority Interest,0,0.00%,0.00%,0.00%,MSFT
+175,Total Liabilities and Equity,0,10.78%,9.31%,12.92%,MSFT
+176,Total Investments,0,-3.04%,-19.97%,-11.54%,MSFT
+177,Total Debt,0,-4.54%,-9.60%,-2.13%,MSFT
+178,Net Debt,0,-6.74%,-11.60%,-46.64%,MSFT
+179,Net Income,0,38.37%,18.72%,-0.52%,MSFT
+180,Depreciation and Amortization,0,-8.67%,23.74%,-4.14%,MSFT
+181,Deferred Income Tax,0,-95.86%,3701.33%,6.26%,MSFT
+182,Stock Based Compensation,0,15.67%,22.62%,28.11%,MSFT
+183,Change in Working Capital,0,-143.58%,-147.65%,-635.43%,MSFT
+184,Accounts Receivables,0,151.49%,5.45%,-40.20%,MSFT
+185,Inventory,0,-538.69%,52.37%,-210.60%,MSFT
+186,Accounts Payables,0,-7.29%,5.18%,-192.46%,MSFT
+187,Other Working Capital,0,126.38%,56.72%,-41.79%,MSFT
+188,Other Non Cash Items,0,470.32%,-67.25%,-147.92%,MSFT
+189,Cash Flow from Operations,0,26.48%,16.02%,-1.63%,MSFT
+190,"Property, Plant and Equipment",0,33.55%,15.83%,17.67%,MSFT
+191,Acquisitions,0,253.39%,147.37%,-92.42%,MSFT
+192,Purchases of Investments,0,-18.48%,-57.96%,42.32%,MSFT
+193,Sales of Investments,0,-21.82%,-31.77%,6.62%,MSFT
+194,Other Investing Activities,0,-25.71%,206.40%,10.30%,MSFT
+195,Cash Flow from Investing,0,125.62%,9.91%,-25.18%,MSFT
+196,Debt Repayment,0,-32.04%,140.61%,-69.52%,MSFT
+197,Common Stock Issued,0,26.06%,8.74%,1.36%,MSFT
+198,Common Stock Purchased,0,19.23%,19.39%,-31.96%,MSFT
+199,Dividends Paid,0,9.14%,9.77%,9.18%,MSFT
+200,Other Financing Activities,0,-32.74%,-65.79%,16.57%,MSFT
+201,Cash Flow from Financing,0,5.33%,21.43%,-25.38%,MSFT
+202,Forex Changes on Cash,0,-85.57%,386.21%,37.59%,MSFT
+203,Net Change in Cash,0,-70.81%,-145.22%,-7189.76%,MSFT
+204,Cash End of Period,0,4.77%,-2.06%,149.11%,MSFT
+205,Cash Beginning of Period,0,19.55%,4.77%,-2.06%,MSFT
+206,Operating Cash Flow,0,26.48%,16.02%,-1.63%,MSFT
+207,Capital Expenditure,0,33.55%,15.83%,17.67%,MSFT
+208,Free Cash Flow,0,24.06%,16.09%,-8.71%,MSFT
+209,Revenue,0,17.53%,17.96%,6.88%,MSFT
+210,Cost of Goods Sold,0,13.36%,19.95%,5.13%,MSFT
+211,Gross Profit,0,19.52%,17.06%,7.69%,MSFT
+212,Gross Profit Ratio,0,1.70%,-0.77%,0.76%,MSFT
+213,Research and Development Expenses,0,7.51%,18.32%,10.95%,MSFT
+214,General and Administrative Expenses,0,-0.08%,15.53%,28.39%,MSFT
+215,Selling and Marketing Expenses,0,2.65%,8.49%,4.28%,MSFT
+216,"Selling, General and Administrative Expenses",0,2.08%,9.92%,9.41%,MSFT
+217,Other Expenses,0,1440.26%,-71.92%,136.64%,MSFT
+218,Operating Expenses,0,1.28%,16.60%,11.14%,MSFT
+219,Cost and Expenses,0,7.46%,18.41%,7.86%,MSFT
+220,Interest Income,0,-20.49%,-1.74%,42.98%,MSFT
+221,Interest Expense,0,-9.46%,-12.06%,-4.60%,MSFT
+222,Depreciation and Amortization,0,-11.38%,33.94%,-7.53%,MSFT
+223,EBITDA,0,23.84%,21.24%,4.12%,MSFT
+224,EBITDA Ratio,0,5.37%,2.79%,-2.59%,MSFT
+225,Operating Income,0,32.02%,19.26%,6.16%,MSFT
+226,Operating Income Ratio,0,12.31%,1.13%,-0.69%,MSFT
+227,Total Other Income,0,1440.26%,-71.92%,136.64%,MSFT
+228,Income Before Tax,0,34.06%,17.74%,6.68%,MSFT
+229,Income Before Tax Ratio,0,14.08%,-0.19%,-0.19%,MSFT
+230,Income Tax Expense,0,12.29%,11.67%,54.40%,MSFT
+231,Net Income,0,38.37%,18.72%,-0.52%,MSFT
+232,Net Income Ratio,0,17.73%,0.66%,-6.92%,MSFT
+233,EPS,0,39.52%,19.46%,0.21%,MSFT
+234,EPS Diluted,0,39.76%,19.88%,0.31%,MSFT
+235,Weighted Average Shares,0,-0.99%,-0.97%,-0.83%,MSFT
+236,Weighted Average Shares Diluted,0,-0.98%,-0.89%,-0.90%,MSFT
+237,Share Price,0,52.48%,-28.02%,56.05%,MSFT
+238,Market Capitalization,0,50.99%,-28.67%,54.64%,MSFT
+239,Total Debt,0,-4.54%,-9.60%,-2.13%,MSFT
+240,Minority Interest,0,0.00%,0.00%,0.00%,MSFT
+241,Preferred Equity,0,0.00%,0.00%,0.00%,MSFT
+242,Cash and Cash Equivalents,0,4.77%,-2.06%,149.11%,MSFT
+243,Enterprise Value,0,49.06%,-28.31%,52.04%,MSFT
+244,Gross Margin,0,1.70%,-0.77%,0.76%,MSFT
+245,Operating Margin,0,12.31%,1.13%,-0.69%,MSFT
+246,Net Profit Margin,0,17.73%,0.66%,-6.92%,MSFT
+247,Interest Coverage Ratio,0,36.77%,37.87%,9.15%,MSFT
+248,Income Before Tax Profit Margin,0,14.08%,-0.19%,-0.19%,MSFT
+249,Effective Tax Rate,0,-16.23%,-5.21%,44.77%,MSFT
+250,Return on Assets (ROA),0,0.00%,7.88%,-10.52%,MSFT
+251,Return on Equity (ROE),0,0.00%,0.15%,-17.67%,MSFT
+252,Return on Invested Capital (ROIC),0,0.00%,7.41%,-16.24%,MSFT
+253,Return on Capital Employed (ROCE),0,23.34%,6.14%,-6.76%,MSFT
+254,Return on Tangible Assets,0,0.00%,9.78%,-8.30%,MSFT
+255,Income Quality Ratio,0,-8.59%,-2.27%,-1.13%,MSFT
+256,Net Income per EBT,0,3.21%,0.84%,-6.76%,MSFT
+257,Free Cash Flow to Operating Cash Flow Ratio,0,-1.90%,0.05%,-7.19%,MSFT
+258,EBT to EBIT Ratio,0,1.54%,0.81%,0.26%,MSFT
+259,EBIT to Revenue,0,12.34%,-1.01%,-0.44%,MSFT
+260,Interest Burden Ratio,0,7.27%,-1.73%,0.02%,NVDA
+261,Tax Burden Ratio,0,-2.70%,1.60%,6.48%,NVDA
+262,Operating Profit Margin,0,-2.79%,39.71%,-58.04%,NVDA
+263,Asset Turnover,0,0.00%,1.98%,-14.33%,NVDA
+264,Equity Multiplier,0,0.00%,5.86%,4.47%,NVDA
+265,Return on Equity,0,0.00%,50.54%,-60.00%,NVDA
+266,Cash and Cash Equivalents,0,-92.23%,134.95%,70.30%,NVDA
+267,Short Term Investments,0,1071300.00%,79.37%,-48.45%,NVDA
+268,Cash and Short Term Investments,0,6.09%,83.44%,-37.31%,NVDA
+269,Accounts Receivable,0,46.59%,91.44%,-17.70%,NVDA
+270,Inventory,0,86.52%,42.66%,98.04%,NVDA
+271,Other Current Assets,0,52.23%,53.14%,116.12%,NVDA
+272,Total Current Assets,0,17.28%,79.56%,-19.97%,NVDA
+273,"Property, Plant and Equipment",0,24.61%,26.30%,34.32%,NVDA
+274,Goodwill,0,578.48%,3.72%,0.53%,NVDA
+275,Intangible Assets,0,5485.71%,-14.54%,-28.35%,NVDA
+276,Long Term Investments,0,0.00%,84.72%,12.41%,NVDA
+277,Tax Assets,0,47.08%,51.61%,177.91%,NVDA
+278,Other Fixed Assets,0,1594.92%,78.75%,-1.51%,NVDA
+279,Fixed Assets,0,251.34%,20.59%,17.91%,NVDA
+280,Other Assets,0,0.00%,0.00%,0.00%,NVDA
+281,Total Assets,0,66.28%,53.48%,-6.80%,NVDA
+282,Accounts Payable,0,74.82%,48.46%,-33.09%,NVDA
+283,Short Term Debt,0,997.80%,-100.00%,0.00%,NVDA
+284,Tax Payables,0,0.00%,-100.00%,0.00%,NVDA
+285,Deferred Revenue,0,104.26%,4.17%,18.00%,NVDA
+286,Other Current Liabilities,0,66.13%,56.72%,67.23%,NVDA
+287,Total Current Liabilities,0,120.01%,10.45%,51.40%,NVDA
+288,Long Term Debt,0,158.54%,77.13%,-9.26%,NVDA
+289,Deferred Revenue Non Current,0,171.67%,23.93%,7.92%,NVDA
+290,Deferred Tax Liabilities,0,731.03%,1.66%,0.82%,NVDA
+291,Other Non Current Liabilities,0,41.55%,13.90%,30.92%,NVDA
+292,Total Non Current Liabilities,0,139.65%,66.06%,-5.45%,NVDA
+293,Other Liabilities,0,0.00%,0.00%,0.00%,NVDA
+294,Capital Lease Obligations,0,13.01%,16.88%,21.73%,NVDA
+295,Total Liabilities,0,132.79%,47.71%,8.57%,NVDA
+296,Preferred Stock,0,0.00%,0.00%,0.00%,NVDA
+297,Common Stock,0,0.00%,200.00%,-33.33%,NVDA
+298,Retained Earnings,0,26.30%,-14.14%,-37.35%,NVDA
+299,Accumulated Other Comprehensive Income,0,1800.00%,-157.89%,290.91%,NVDA
+300,Other Total Shareholder Equity,0,-26.51%,-610.32%,15.27%,NVDA
+301,Total Shareholder Equity,0,38.42%,57.53%,-16.95%,NVDA
+302,Total Equity,0,38.42%,57.53%,-16.95%,NVDA
+303,Total Liabilities and Shareholder Equity,0,66.28%,53.48%,-6.80%,NVDA
+304,Minority Interest,0,0.00%,0.00%,0.00%,NVDA
+305,Total Liabilities and Equity,0,66.28%,53.48%,-6.80%,NVDA
+306,Total Investments,0,1085700.00%,79.44%,-47.62%,NVDA
+307,Total Debt,0,197.69%,53.84%,1.44%,NVDA
+308,Net Debt,0,-180.90%,43.66%,-12.69%,NVDA
+309,Net Income,0,54.94%,125.12%,-55.21%,NVDA
+310,Depreciation and Amortization,0,188.19%,6.92%,31.52%,NVDA
+311,Deferred Income Tax,0,-1666.67%,43.97%,433.00%,NVDA
+312,Stock Based Compensation,0,65.52%,43.45%,35.18%,NVDA
+313,Change in Working Capital,0,-198.05%,378.38%,-34.37%,NVDA
+314,Accounts Receivables,0,136.05%,302.73%,-137.11%,NVDA
+315,Inventory,0,-187.77%,47.71%,229.97%,NVDA
+316,Accounts Payables,0,87.11%,56.47%,-197.01%,NVDA
+317,Other Working Capital,0,-94.97%,-11875.00%,-108.07%,NVDA
+318,Other Non Cash Items,0,-500.00%,165.00%,-2724.53%,NVDA
+319,Cash Flow from Operations,0,22.29%,56.44%,-38.07%,NVDA
+320,"Property, Plant and Equipment",0,130.67%,-13.48%,87.81%,NVDA
+321,Acquisitions,0,-94811.11%,-96.91%,-81.37%,NVDA
+322,Purchases of Investments,0,1211.32%,28.28%,-51.74%,NVDA
+323,Sales of Investments,0,14.92%,74.05%,30.89%,NVDA
+324,Other Investing Activities,0,-100.00%,0.00%,0.00%,NVDA
+325,Cash Flow from Investing,0,-420.18%,-50.04%,-175.03%,NVDA
+326,Debt Repayment,0,0.00%,-inf%,-100.00%,NVDA
+327,Common Stock Issued,0,0.00%,0.00%,0.00%,NVDA
+328,Common Stock Purchased,0,-100.00%,0.00%,-inf%,NVDA
+329,Dividends Paid,0,1.28%,1.01%,-0.25%,NVDA
+330,Other Financing Activities,0,256.75%,-22.27%,-136.15%,NVDA
+331,Cash Flow from Financing,0,-580.30%,-50.97%,-722.90%,NVDA
+332,Forex Changes on Cash,0,0.00%,0.00%,0.00%,NVDA
+333,Net Change in Cash,0,-199.36%,-111.37%,22.40%,NVDA
+334,Cash End of Period,0,-92.23%,134.95%,70.30%,NVDA
+335,Cash Beginning of Period,0,1293.35%,-92.23%,134.95%,NVDA
+336,Operating Cash Flow,0,22.29%,56.44%,-38.07%,NVDA
+337,Capital Expenditure,0,130.67%,-13.48%,87.81%,NVDA
+338,Free Cash Flow,0,9.88%,73.24%,-53.17%,NVDA
+339,Revenue,0,52.73%,61.40%,0.22%,NVDA
+340,Cost of Goods Sold,0,51.30%,50.33%,23.09%,NVDA
+341,Gross Profit,0,53.61%,68.09%,-12.13%,NVDA
+342,Gross Profit Ratio,0,0.56%,4.15%,-12.32%,NVDA
+343,Research and Development Expenses,0,38.71%,34.25%,39.31%,NVDA
+344,General and Administrative Expenses,0,0.00%,0.00%,0.00%,NVDA
+345,Selling and Marketing Expenses,0,0.00%,0.00%,0.00%,NVDA
+346,"Selling, General and Administrative Expenses",0,77.49%,11.65%,12.65%,NVDA
+347,Other Expenses,0,-300.00%,2575.00%,-144.86%,NVDA
+348,Operating Expenses,0,49.52%,26.77%,31.54%,NVDA
+349,Cost and Expenses,0,50.43%,38.95%,26.81%,NVDA
+350,Interest Income,0,-67.98%,-49.12%,820.69%,NVDA
+351,Interest Expense,0,253.85%,28.26%,11.02%,NVDA
+352,Depreciation and Amortization,0,108.08%,13.03%,17.86%,NVDA
+353,EBITDA,0,67.23%,99.46%,-35.34%,NVDA
+354,EBITDA Ratio,0,9.50%,23.59%,-35.49%,NVDA
+355,Operating Income,0,59.24%,121.56%,-57.93%,NVDA
+356,Operating Income Ratio,0,4.26%,37.27%,-58.03%,NVDA
+357,Total Other Income,0,-199.19%,-18.70%,1515.00%,NVDA
+358,Income Before Tax,0,48.45%,125.47%,-57.94%,NVDA
+359,Income Before Tax Ratio,0,-2.79%,39.71%,-58.04%,NVDA
+360,Income Tax Expense,0,-55.75%,145.45%,-198.94%,NVDA
+361,Net Income,0,54.94%,125.12%,-55.21%,NVDA
+362,Net Income Ratio,0,1.44%,39.45%,-55.31%,NVDA
+363,EPS,0,53.04%,122.16%,-54.99%,NVDA
+364,EPS Diluted,0,53.10%,122.54%,-54.81%,NVDA
+365,Weighted Average Shares,0,1.31%,1.13%,-0.36%,NVDA
+366,Weighted Average Shares Diluted,0,1.62%,0.92%,-1.10%,NVDA
+367,Share Price,0,125.48%,-50.26%,218.99%,NVDA
+368,Market Capitalization,0,129.13%,-49.81%,215.46%,NVDA
+369,Total Debt,0,197.69%,53.84%,1.44%,NVDA
+370,Minority Interest,0,0.00%,0.00%,0.00%,NVDA
+371,Preferred Equity,0,0.00%,0.00%,0.00%,NVDA
+372,Cash and Cash Equivalents,0,-92.23%,134.95%,70.30%,NVDA
+373,Enterprise Value,0,137.38%,-48.96%,209.64%,NVDA
+374,Gross Margin,0,0.56%,4.15%,-12.32%,NVDA
+375,Operating Margin,0,4.26%,37.27%,-58.03%,NVDA
+376,Net Profit Margin,0,1.44%,39.45%,-55.31%,NVDA
+377,Interest Coverage Ratio,0,-52.74%,55.51%,-54.23%,NVDA
+378,Income Before Tax Profit Margin,0,-2.79%,39.71%,-58.04%,NVDA
+379,Effective Tax Rate,0,-70.14%,8.57%,-335.26%,NVDA
+380,Return on Assets (ROA),0,0.00%,42.26%,-61.73%,NVDA
+381,Return on Equity (ROE),0,0.00%,50.54%,-60.00%,NVDA
+382,Return on Invested Capital (ROIC),0,0.00%,34.01%,-56.56%,NVDA
+383,Return on Capital Employed (ROCE),0,-5.09%,38.28%,-49.77%,NVDA
+384,Return on Tangible Assets,0,0.00%,37.95%,-61.80%,NVDA
+385,Income Quality Ratio,0,-21.07%,-30.51%,38.27%,NVDA
+386,Net Income per EBT,0,4.37%,-0.15%,6.49%,NVDA
+387,Free Cash Flow to Operating Cash Flow Ratio,0,-10.14%,10.73%,-24.38%,NVDA
+388,EBT to EBIT Ratio,0,-2.33%,1.76%,-3.67%,NVDA
+389,EBIT to Revenue,0,-0.51%,37.29%,-56.44%,NVDA
